@@ -23,11 +23,11 @@ Azure, Render, Netlify
 
 ## 🚀 Featured Projects
 
-- [**DatingApp**](https://github.com/jackywu0724/DatingApp) – Full-Stack Project using Angular and ASP.NET Core (Course-based, expanded with clean architecture)
-- [**mochachino-admin-dashboard**](https://github.com/jackywu0724/mochachino-admin-dashboard) – Client dashboard built with Razor Pages for managing artwork & content
-- [**CareerKit**](https://github.com/jackywu0724/careerkit-frontend) – AI-powered cover letter and job application tool (Frontend & ASP.NET Core API backend)
-- [**MonsterWaves**](https://github.com/jackywu0724/MonsterWaves) – Unity3D capstone FPS wave survival game (Circuit Stream Bootcamp)
-- [**jackywu-portfolio**](https://github.com/jackywu0724/jackywu-portfolio) – Responsive personal website with sprite navigation and dark/light theme toggle
+- [**DatingApp**](https://github.com/JackyWuCoder/DatingApp) – Full-Stack Project using Angular and ASP.NET Core (Course-based, expanded with clean architecture)
+- [**mochachino-admin-dashboard**](https://github.com/JackyWuCoder/mochachino-admin-dashboard) – Client dashboard built with Razor Pages for managing artwork & content
+- [**CareerKit**](https://github.com/JackyWuCoder/careerkit-frontend) – AI-powered cover letter and job application tool (Frontend & ASP.NET Core API backend)
+- [**MonsterWaves**](https://github.com/JackyWuCoder/MonsterWaves) – Unity3D capstone FPS wave survival game (Circuit Stream Bootcamp)
+- [**jackywu-portfolio**](https://github.com/JackyWuCoder/jackywu-portfolio) – Responsive personal website with sprite navigation and dark/light theme toggle
 
 ---
 
