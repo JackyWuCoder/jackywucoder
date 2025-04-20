@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Jacky Wu
 
-<!--
-**JackyWuCoder/jackywucoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Math & CS @ UBC | 💼 Full-Stack Developer  
+🌐 Microsoft Stack • AI Integration • Game Dev Enthusiast  
+📍 Vancouver, BC
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full-stack developer specializing in **C#**, **ASP.NET Core**, and the **Microsoft tech stack**, with a passion for building practical tools that solve real-world problems. I enjoy integrating **AI**, designing clean architecture, and occasionally mixing in game dev principles to create interactive, user-focused experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+C#, JavaScript, SQL, HTML/CSS
+
+**Frameworks & Tools:**  
+ASP.NET Core, Angular, Razor Pages, Entity Framework, Unity, Git, GitHub Actions
+
+**Cloud & DevOps:**  
+Azure, Render, Netlify
+
+---
+
+## ✍️ What I Value
+- 🚀 Clean, modular architecture
+- 🤝 Collaboration and continuous learning
+- 🧠 Bridging AI, game design, and software engineering
+
+---
+
+## 🌐 Connect with Me
+
+- 🌐 [Portfolio Website](https://jackywucoder.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jackywucoder/)
+- 📧 Email: JackyWuCoder@gmail.com
+
