@@ -39,6 +39,16 @@ Azure, Render, Netlify
 
 ---
 
+## 🧭 My Development Philosophy
+
+I believe developers — especially juniors — should **lead their code, not follow it**.
+
+AI is a powerful tool, but I avoid what I call **“vibe coding”** — blindly generating solutions without understanding their structure or long-term implications. Instead, I define a clear **solution vision**, break it into meaningful steps, and ensure each step supports clarity, extensibility, and real problem-solving.
+
+I treat AI like a collaborative assistant, not the architect. The **solution vision** must come from me. I define the problem, explain it clearly, and evaluate the results. That means I have to understand the problem deeply to form a productive back-and-forth. There are often multiple feasible solutions, but my role is to find the **optimal** one based on context, constraints, and long-term maintainability.
+
+---
+
 ## 🌐 Connect with Me
 
 - 🌐 [Portfolio Website](https://jackywucoder.netlify.app/)  
