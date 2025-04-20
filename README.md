@@ -25,11 +25,12 @@ Azure, Render, Netlify
 
 - [**DatingApp**](https://github.com/JackyWuCoder/DatingApp) – Full-Stack Project using Angular and ASP.NET Core (Course-based, expanded with clean architecture)
 - [**mochachino-admin-dashboard**](https://github.com/JackyWuCoder/mochachino-admin-dashboard) – Client dashboard built with Razor Pages for managing artwork & content
-- [**CareerKit**](https://github.com/JackyWuCoder/careerkit-frontend) – AI-powered cover letter and job application tool (Frontend & ASP.NET Core API backend)
+- **CareerKit** – AI-powered cover letter and job application tool:
+  - [Frontend](https://github.com/JackyWuCoder/careerkit-frontend) – HTML/CSS/JS with API integration
+  - [Backend](https://github.com/JackyWuCoder/careerkit-backend) – ASP.NET Core Web API with planned OpenAI support
 - [**MonsterWaves**](https://github.com/JackyWuCoder/MonsterWaves) – Unity3D capstone FPS wave survival game (Circuit Stream Bootcamp)
 - [**jackywu-portfolio**](https://github.com/JackyWuCoder/jackywu-portfolio) – Responsive personal website with sprite navigation and dark/light theme toggle
 
----
 
 ## ✍️ What I Value
 
