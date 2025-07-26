@@ -11,7 +11,7 @@ I'm a full-stack developer specializing in **C#**, **ASP.NET Core**, and the **M
 ## 🛠️ Tech Stack
 
 **Languages:**  
-C#, JavaScript, SQL, HTML/CSS
+C#, TypeScript, JavaScript, SQL, HTML/CSS
 
 **Frameworks & Tools:**  
 ASP.NET Core, Angular, Razor Pages, Entity Framework, Unity, Git, GitHub Actions
